@@ -1,0 +1,4 @@
+name: mlProject
+channels:
+  - defaults
+prefix: C:\Users\apoor\miniconda3\envs\mlProject
