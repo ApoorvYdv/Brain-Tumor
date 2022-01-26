@@ -18,11 +18,11 @@ Pituitary Tumor and No Tumor.
 
 ### Result
 
-● Developed a Machine Learning model to help diagnose a person has Brain Tumor using his Brain MRI scan 
+* Developed a Machine Learning model to help diagnose a person has Brain Tumor using his Brain MRI scan 
 with a reasonable accuracy of over 97%.
-● Trained state-of-art CNN model EfficientNet B1 on the MRI scanned images to predict the brain tumor with 
+* Trained state-of-art CNN model EfficientNet B1 on the MRI scanned images to predict the brain tumor with 
 F1-score 82%. The implementation was done in Keras.
-● Later build a production built of the model using Streamlit and hosted it on GitHub.
+* Later build a production built of the model using Streamlit and hosted it on GitHub.
 
 https://share.streamlit.io/apoorv-17/brain-tumor/app.py
 
